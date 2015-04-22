@@ -13,11 +13,11 @@
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Did you Know" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1HD-9C-zFd">
                     <rect key="frame" x="153" y="222" width="175" height="36"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="30"/>
-                    <color key="textColor" red="0.97314946338383834" green="0.97314946338383834" blue="0.97314946338383834" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="textColor" red="0.26850536616161613" green="0.26850536616161613" blue="0.26850536616161613" alpha="1" colorSpace="calibratedRGB"/>
                     <nil key="highlightedColor"/>
                 </label>
             </subviews>
-            <color key="backgroundColor" red="0.52233712131732468" green="0.57462566473791732" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <color key="backgroundColor" red="0.52233712131732468" green="0.57462566473791732" blue="1" alpha="0.34000000000000002" colorSpace="calibratedRGB"/>
             <constraints>
                 <constraint firstAttribute="centerX" secondItem="1HD-9C-zFd" secondAttribute="centerX" constant="-0.5" id="d5j-M9-o8u"/>
                 <constraint firstAttribute="centerY" secondItem="1HD-9C-zFd" secondAttribute="centerY" constant="0.5" id="ggp-Xc-gKh"/>
